@@ -4,7 +4,7 @@
         <h1>Filosofía Levendis</h1>
         <p class="p-subtitle">Bienvenido/a a nuestra clínica de fisioterapia, rehabilitación deportiva y entrenamiento personal, donde la filosofía "Levendis" inspira todo lo que hacemos. Creemos que la fortaleza y la valentía son fundamentales para lograr una vida plena y activa.</p>
     </div>
-    <img src="<?php echo get_template_directory_uri(); ?>/filosofia.png" alt="">
+    <img src="<?php echo get_template_directory_uri(); ?>/images/filosofia.png" alt="">
     <div class="section__filosofia--body">
         <p>Nos enfocamos en crear unidad entre nuestros pacientes y nuestro equipo, brindando
 apoyo y motivación constante para alcanzar sus objetivos.
@@ -25,7 +25,7 @@ hacia una vida más saludable y activa.
     </div>
 </section>
 <section class="section__filosofia-text">
-    <img class="img1" src="<?php echo get_template_directory_uri(); ?>/IMG.png" alt="">
+    <img class="img1" src="<?php echo get_template_directory_uri(); ?>/images/IMG.png" alt="">
     <span>La disciplina es el hábito de hacer lo que se debe, <br> incluso cuando no tienes ganas <br> de hacerlo.
 </span>
     <svg width="1670" height="1339" viewBox="0 0 1670 1339" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -56,8 +56,8 @@ hacia una vida más saludable y activa.
         </filter>
         </defs>
     </svg>
-    <img class="img2" src="<?php echo get_template_directory_uri(); ?>/IMG_7502-Copia.jpeg" alt="">
-    <img class="img3" src="<?php echo get_template_directory_uri(); ?>/IMG_0288_Original-1.jpeg" alt="">
+    <img class="img2" src="<?php echo get_template_directory_uri(); ?>/images/IMG_7502-Copia.jpeg" alt="">
+    <img class="img3" src="<?php echo get_template_directory_uri(); ?>/images/IMG_0288_Original-1.jpeg" alt="">
 </section>
 
 <?php the_content(); ?>
