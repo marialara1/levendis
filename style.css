@@ -285,7 +285,7 @@ p {
 .section__landing {
     width: 98vw;
     height: 90vh;
-    background-image: url(http://localhost/levendiswp/wp-content/uploads/2023/06/portada-levendis-1.png);
+    background-image: url(images/portada-levendis-1.png);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -355,7 +355,7 @@ p {
     border-radius: 50%;
     width: 365px;
     height: 365px;
-    background: url(http://localhost/levendiswp/wp-content/uploads/2023/06/Diseno-sin-titulo.gif);
+    background: url(images/Diseno-sin-titulo.gif);
     background-size: cover;
     position: relative;
 }

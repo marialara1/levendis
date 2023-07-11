@@ -10,5 +10,5 @@ jQuery(function ($) {
     }
     
     btn.addEventListener("click", showCard);
-	
+
 });

@@ -29,7 +29,7 @@
     <nav class="nav__desktop">
         <div class="link__home-logo">
             <a href="/levendiswp/">
-                <img class="logo" src="http://localhost/levendiswp/wp-content/uploads/2023/06/isotipo_turquesa-y-celeste.png" alt="levendis-logo">
+                <img class="logo" src="<?php echo get_template_directory_uri(); ?>/images/isotipo_turquesa-y-celeste.png" alt="levendis-logo">
             </a>
         </div>
         <ul>

@@ -68,42 +68,42 @@
 <section class="section__carousel">
     <div class="slider slider-left">
         <div class="slide-track">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/3-4.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/IMG_5290-Copia.jpeg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/IMG_7016-1.jpeg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/IMG_0288_Original-1.jpeg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/1-5.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/1-4.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/3-3.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/3-2.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/3-4.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/IMG_5290-Copia.jpeg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/IMG_7016-1.jpeg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/IMG_0288_Original-1.jpeg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/1-5.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/1-4.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/3-3.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/3-2.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/3-4.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/IMG_5290-Copia.jpeg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/IMG_7016-1.jpeg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/IMG_0288_Original-1.jpeg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/1-5.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/1-4.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/3-3.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/3-2.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/3-4.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/IMG_5290-Copia.jpeg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/IMG_7016-1.jpeg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/IMG_0288_Original-1.jpeg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/1-5.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/1-4.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/3-3.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/3-2.jpg" alt="">
         </div>
     </div>
     <div class="slider slider-right">
         <div class="slide-track">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/3.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/unnamed-1.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/unnamed.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/IMG_7016.jpeg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/4-1.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/IMG_5229.jpeg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/3-5.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/3-3.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/3.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/unnamed-1.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/unnamed.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/IMG_7016.jpeg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/4-1.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/IMG_5229.jpeg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/3-5.jpg" alt="">
-            <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/3-3.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/3.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/unnamed-1.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/unnamed.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/IMG_7016.jpeg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/4-1.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/IMG_5229.jpeg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/3-5.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/3-3.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/3.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/unnamed-1.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/unnamed.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/IMG_7016.jpeg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/4-1.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/IMG_5229.jpeg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/3-5.jpg" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/3-3.jpg" alt="">
         </div>
     </div>
 </section>
@@ -132,8 +132,7 @@
             </ul>
         </div>
         <div class="col30 section__second--video">
-            <video autoplay src="http://localhost/levendiswp/wp-content/uploads/2023/06/fbca9bd1-0096-4736-8ad4-80fdfbfb3467_KPAq61Vd.mp4"></video>
-            <!-- <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/IMG_0288_Original.jpeg" alt=""> -->
+            <video autoplay src="<?php echo get_template_directory_uri(); ?>/fbca9bd1-0096-4736-8ad4-80fdfbfb3467_KPAq61Vd.mp4"></video>
         </div>
         <div class="col30 section__second--p">
             <p>
@@ -194,7 +193,7 @@
         <span class="num">01</span>
         <div class="section__third--01-content">
             <div class="section__third--img-text">
-                <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/img.jpg" alt="">
+                <img src="<?php echo get_template_directory_uri(); ?>/img.jpg" alt="">
                 <h5>Entrenamiento</h5>
             </div>
             <div class="section__third--tags-text">
@@ -219,7 +218,7 @@
         <span class="num">02</span>
         <div class="section__third--02-content">
             <div class="section__third--img-text">
-                <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/foto.png" alt="">
+                <img src="<?php echo get_template_directory_uri(); ?>/foto.png" alt="">
                 <h5>Fisioterapia & rehabilitación</h5>
             </div>
 
@@ -249,7 +248,7 @@
         <span class="num">03</span>
         <div class="section__third--03-content">
             <div class="section__third--img-text">
-                <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/fotoc.png" alt="">
+                <img src="<?php echo get_template_directory_uri(); ?>/fotoc.png" alt="">
                 <h5>Asesoramiento nutricional</h5>
             </div>
             <div class="section__third--tags-text">
@@ -278,7 +277,7 @@
 </section>
 <section class="section__fourth">
     <div class="section__fourth--image1">
-        <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/unnamed.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri(); ?>/unnamed.jpg" alt="">
     </div>
     <div class="section__fourth--text">
         <h3>¿Interesad@ en alguno de estos servicios?</h3>
@@ -287,7 +286,7 @@
     </div>
     <div class="section__fourth--image2-container">   
         <div class="section__fourth--image2">
-        <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/unnamed-1-copia.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri(); ?>/unnamed-1-copia.jpg" alt="">
     </div>
     </div>
 </section>
@@ -308,7 +307,7 @@
     <div class="section__fifth--cards">
         <div class="card card1">
             <div class="top-card">
-                <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/image-25.png" alt="">
+                <img src="<?php echo get_template_directory_uri(); ?>/image-25.png" alt="">
                 <div class="name-stars">
                     <svg class="stars" width="161" height="25" viewBox="0 0 161 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M12.5006 17.9902L18.9381 21.8757L17.2298 14.5527L22.9173 9.62565L15.4277 8.97982L12.5006 2.08398L9.57357 8.97982L2.08398 9.62565L7.76107 14.5527L6.06315 21.8757L12.5006 17.9902Z" fill="#51A1A2"/>
@@ -324,7 +323,7 @@
         </div>
         <div class="card card2">
             <div class="top-card">
-                <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/image-24.png" alt="">
+                <img src="<?php echo get_template_directory_uri(); ?>/image-24.png" alt="">
                 <div class="name-stars">
                     <svg class="stars" width="161" height="25" viewBox="0 0 161 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M12.5006 17.9902L18.9381 21.8757L17.2298 14.5527L22.9173 9.62565L15.4277 8.97982L12.5006 2.08398L9.57357 8.97982L2.08398 9.62565L7.76107 14.5527L6.06315 21.8757L12.5006 17.9902Z" fill="#51A1A2"/>
@@ -340,7 +339,7 @@
         </div>
         <div class="card card3">
             <div class="top-card">
-                <img src="http://localhost/levendiswp/wp-content/uploads/2023/06/image-23.png" alt="">
+                <img src="<?php echo get_template_directory_uri(); ?>/image-23.png" alt="">
                 <div class="name-stars">
                     <svg class="stars" width="161" height="25" viewBox="0 0 161 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M12.5006 17.9902L18.9381 21.8757L17.2298 14.5527L22.9173 9.62565L15.4277 8.97982L12.5006 2.08398L9.57357 8.97982L2.08398 9.62565L7.76107 14.5527L6.06315 21.8757L12.5006 17.9902Z" fill="#51A1A2"/>
